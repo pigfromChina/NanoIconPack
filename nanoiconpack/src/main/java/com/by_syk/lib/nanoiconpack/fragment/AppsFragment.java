@@ -155,6 +155,7 @@ public class AppsFragment extends Fragment {
                 Build.BRAND, Build.MODEL, label, labelEn,
                 bean.getPkgName(), bean.getLauncherActivity(),
                 ExtraUtil.appName2drawableName(label, labelEn));
+                //TODO:Do something fun there
         if (!appCodeSelected.contains(code)) {
             appCodeSelected += (appCodeSelected.length() > 0 ? "\n\n" : "") + code;
         }
