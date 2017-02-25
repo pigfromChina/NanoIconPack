@@ -1,4 +1,4 @@
-# NanoIconPack 图标包APP模板
+# NanoIconPack 图标包APP模板-pfc fork
 
 [![Developing](https://img.shields.io/badge/Developing-v1.4.1-green.svg)](art/CHANGELOG.txt)
 [![Release](https://img.shields.io/badge/Release-v1.4.0-brightgreen.svg)](https://github.com/by-syk/NanoIconPack/releases/tag/1.4.0)
@@ -17,6 +17,12 @@ NanoIconPack 是一个简单轻量的图标包APP模板，支持
 + 新原图标对比显示
 + 快速保存图标
 + 直接应用到启动器、从支持的启动器设置中应用
+
+*pfc fork 不计划合并到by_syk的开源项目中,由duangsuse自己修改备用*,计划支持
+
++ markdown格式适配请求，快速跳板酷市场应用，预览图标，方便github提交issue
+
++ kitkat变色状态栏，抄的🐸具体自己百度代码
 
 相关截图（更多截图去[这里](art/SCREENSHOTS.md)查看）：
 
