@@ -53,8 +53,8 @@
     <string name="preference_app_title_dashboard">Based on NanoIconPack v1.4.0</string>
     <string name="preference_app_summary_dashboard" translatable="false">[https://github.com/by-syk/NanoIconPack](https://github.com/by-syk/NanoIconPack)</string>
 
-    <string name="app_component" translatable="false">"&lt;!-- %3$s / %4$s -->\n&lt;item component=\"ComponentInfo{%5$s/%6$s}\" drawable=\"%7$s\" />"</string>
-    <string name="app_component_1" translatable="false">"&lt;!-- Build: %1$s / %2$s -->\n&lt;!-- %3$s / %4$s -->\n&lt;item component=\"ComponentInfo{%5$s/%6$s}\" drawable=\"%7$s\" />"</string>
+    <string name="app_component" translatable="false">"&lt;!-- %3$s / %4$s [![Preview](%8$s)](http://www.coolapk.com/apk/%9$s) -->\n&lt;item component=\"ComponentInfo{%5$s/%6$s}\" drawable=\"%7$s\" />"</string>
+    <string name="app_component_1" translatable="false">"&lt;!-- Build: %1$s / %2$s [![Preview](%8$s)](http://www.coolapk.com/apk/%9$s)  -->\n&lt;!-- %3$s / %4$s -->\n&lt;item component=\"ComponentInfo{%5$s/%6$s}\" drawable=\"%7$s\" />"</string>
     <string name="send_code">Share app codes&#8230;</string>
     <string name="cur_launcher">%s (Current)</string>
     <string name="app_tap_desc">TAP one to copy its code, and LONG PRESS to share it.</string>

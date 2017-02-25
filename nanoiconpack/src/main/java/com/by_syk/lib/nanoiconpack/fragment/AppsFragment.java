@@ -154,8 +154,8 @@ public class AppsFragment extends Fragment {
         String code = getString(isSysApp ? R.string.app_component_1 : R.string.app_component,
                 Build.BRAND, Build.MODEL, label, labelEn,
                 bean.getPkgName(), bean.getLauncherActivity(),
-                ExtraUtil.appName2drawableName(label, labelEn));
-                //TODO:Do something fun there
+                ExtraUtil.appName2drawableName(label, labelEn),"http://image.coolapk.com/apk_logo/2017/0217/icon-for-126225-o_1b95ode2u102586q1nc968v1bcuq-uid-675594.png",bean.getPkgName());
+                //TODO:add icon preview function
         if (!appCodeSelected.contains(code)) {
             appCodeSelected += (appCodeSelected.length() > 0 ? "\n\n" : "") + code;
         }
